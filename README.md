@@ -21,7 +21,9 @@
 
 <h3 align="center">GitHub stats</h3>
 
-<img aling="center" src="https://github-readme-streak-stats.herokuapp.com/?user=C0DEFLUX&theme=radical&hide_border=false">
+<p aling="center" >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=C0DEFLUX&theme=radical&hide_border=false">
+</p>
 
 
 ![Footer](wave.png)
