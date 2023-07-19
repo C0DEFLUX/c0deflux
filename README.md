@@ -21,7 +21,7 @@
 
 <h3 align="center">GitHub stats</h3>
 
-<div style ="display: flex;justify-content: center;" >
+<div style ="display: flex;justify-content: center; align-items:center;" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=C0DEFLUX&theme=radical&hide_border=false">
 </div>
 
