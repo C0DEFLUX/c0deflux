@@ -1,3 +1,4 @@
+![Header](image.png)
 
 <h3 align="center">Tech used</h3>
 <div align="center">
