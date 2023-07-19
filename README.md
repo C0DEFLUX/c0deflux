@@ -4,7 +4,7 @@
 
 
 <h1 align="center">C0DEFLUX</h3>
-<p align="center">Passionate programmer constantly seeking to expand knowledge and skills. Embracing challenges and eager to learn in the coding world.</p>
+<p align="center">Drink water</p>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=C0DEFLUX&theme=radical&hide_border=false">
