@@ -5,7 +5,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=C0DEFLUX&theme=radical&hide_border=false)<br/>
 
 
----
-[![](https://visitcount.itsvg.in/api?id=C0DEFLUX&icon=0&color=6)](https://visitcount.itsvg.in)
-
 ![Footer](wave.png)
