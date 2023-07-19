@@ -8,4 +8,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=C0DEFLUX&icon=0&color=6)](https://visitcount.itsvg.in)
 
-![Footer]('./wave.png')
+![Footer]('wave.png')
