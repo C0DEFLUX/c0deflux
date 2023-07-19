@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="image.png" height="100px">
+  <img src="image.png" height="250px">
 </p>
 
 
@@ -10,4 +10,6 @@
 </div>
 
 
-![Footer](wave.png)
+<p align="left">
+  <img src="wave.png" height="250px">
+</p>
