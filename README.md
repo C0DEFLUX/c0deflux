@@ -1,4 +1,6 @@
-![Header](image.png)
+<p align="right">
+  ![Header](image.png)
+</p>
 
 <h3 align="center">Tech used</h3>
 <div align="center">
