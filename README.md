@@ -1,5 +1,5 @@
 <p align="right">
-  ![Header](image.png)
+  <img src="image.png">
 </p>
 
 <h3 align="center">Tech used</h3>
