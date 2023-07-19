@@ -21,9 +21,9 @@
 
 <h3 align="center">GitHub stats</h3>
 
-<p aling="center" >
+<div aling="center" >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=C0DEFLUX&theme=radical&hide_border=false">
-</p>
+</div>
 
 
 ![Footer](wave.png)
